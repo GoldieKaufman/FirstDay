@@ -1,2 +1,3 @@
-I'm testing to see if Git really works, forsure uses up a lot of
-computers cuz always watching..
+$(function (){
+     console.log('hello world');
+});
